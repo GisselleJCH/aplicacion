@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">aplicacion</string>
+    <string name="texto_cerrar">Cerrar</string>
 </resources>
